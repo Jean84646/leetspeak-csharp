@@ -51,5 +51,27 @@ namespace Leetspeak.Tests
       bool isLeet = (translated.Equals(leetSentence));
       Assert.AreEqual(true, isLeet);
     }
+    [TestMethod]
+    public void IsSReplaceByz_True()
+    {
+      Leetspeak testLeetspeak = new Leetspeak();
+      string sentence = "SsS";
+      string leetSentence = "Szz";
+      string translated = testLeetspeak.Translate(sentence);
+      Console.WriteLine(translated);
+      bool isLeet = (translated.Equals(leetSentence));
+      Assert.AreEqual(true, isLeet);
+    }
+    [TestMethod]
+    public void FinalTest_True()
+    {
+      Leetspeak testLeetspeak = new Leetspeak();
+      string sentence = "Don't you love these 'String' exercises? I do!";
+      string leetSentence = "D0n'7 y0u l0v3 7h3z3 'S7ring' 3x3rciz3z? 1 d0!";
+      string translated = testLeetspeak.Translate(sentence);
+      Console.WriteLine(translated);
+      bool isLeet = (translated.Equals(leetSentence));
+      Assert.AreEqual(true, isLeet);
+    }
   }
 }
