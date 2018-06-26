@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/LeetspeakTests.deps.json
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/LeetspeakTests.runtimeconfig.json
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/LeetspeakTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/obj/Debug/netcoreapp1.1/LeetspeakTests.AssemblyInfo.cs
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/LeetspeakTests.dll
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/LeetspeakTests.pdb
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/Leetspeak.dll
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/bin/Debug/netcoreapp1.1/Leetspeak.pdb
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/obj/Debug/netcoreapp1.1/LeetspeakTests.dll
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak.Tests/obj/Debug/netcoreapp1.1/LeetspeakTests.pdb
